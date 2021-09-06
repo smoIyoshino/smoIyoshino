@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smoIyoshino
-- @smolyoshino
+- [@smolyoshino](https://github.com/smolyoshino)
 
 <!---
 smoIyoshino/smoIyoshino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
